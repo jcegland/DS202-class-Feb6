@@ -8,3 +8,4 @@ euclideanNorm = function(x){
 }
 
 euclideanNorm(c(1,2,3,4))
+euclideanNorm(c(1:5))
